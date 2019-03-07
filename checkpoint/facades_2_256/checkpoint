@@ -1,0 +1,2 @@
+model_checkpoint_path: "pix2pix.model-39502"
+all_model_checkpoint_paths: "pix2pix.model-39502"
